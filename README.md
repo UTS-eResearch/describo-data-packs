@@ -1,3 +1,5 @@
+# Development of this application has moved to [https://github.com/Arkisto-Platform/describo-data-packs](https://github.com/Arkisto-Platform/describo-data-packs)
+
 # describo-data-packs
 
 A repository to host data packs for use in Describo
